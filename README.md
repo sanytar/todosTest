@@ -2,6 +2,10 @@
 
 
 Back - postgreSQL, Express
+
+
+
+
 Front - React/Redux(thunk)
 
 
